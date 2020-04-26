@@ -23,6 +23,7 @@ Researcher at Tecgraf.
 "Lua" means "Moon" in Portuguese. It is not an acronym nor an abbreviation, but a noun. To be specific, "Lua" is a name, the name of the Earth's moon (like "Luna") and the name of the language. Like most names, it should be written in lower case with an initial capital, that is, "Lua". Writing "LUA" is ugly and can lead confusion.
 
 ## Why Lua
+Lua is an academic project and differs from the other languages with this property. It has different pressures compared to other projects. This creating a disadvantage of not having live feedback, but also led to an elegant well working small and fast language.
 
 ### Lua is a proven, robust language
 Lua has been used in many industrial applications (e.g., Adobe's Photoshop Lightroom), with an emphasis on embedded systems (e.g., the Ginga middleware for digital TV in Brazil) and games (e.g., World of Warcraft and Angry Birds). Lua is one of the best languages for game development. Lua has a solid reference manual and there are several books about it. Several versions of Lua have been released and used in real applications since its creation in 1993. Lua won the Front Line Award 2011 from the Game Developers Magazine.
